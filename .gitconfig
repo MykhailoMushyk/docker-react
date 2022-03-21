@@ -1,0 +1,14 @@
+[user]
+    name = Mykhailo, Mushyk
+    email = mishamushyk@gmail.com
+    password = 8200337890+mms
+[http]
+    sslVerify = false
+[https]
+    sslverify = false
+[push]
+    default = simple
+[credential]
+    helper = cache --timeout=360000000
+[core]
+    autocrlf = false
